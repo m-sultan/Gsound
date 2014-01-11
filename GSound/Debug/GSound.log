@@ -1,0 +1,20 @@
+﻿Build started 1/11/2014 12:13:11 PM.
+     1>Project "c:\Users\administrator.sultan-pc\documents\visual studio 2012\Projects\GSound\GSound\GSound.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\administrator.sultan-pc\documents\visual studio 2012\Projects\GSound\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\GSound.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Listner.cpp ray.cpp Source.cpp wall.cpp
+         wall.cpp
+     1>c:\users\administrator.sultan-pc\documents\visual studio 2012\projects\gsound\gsound\wall.h(1): fatal error C1083: Cannot open include file: 'poistion.h': No such file or directory
+         Source.cpp
+         ray.cpp
+         Listner.cpp
+     1>c:\users\administrator.sultan-pc\documents\visual studio 2012\projects\gsound\gsound\listner.h(1): fatal error C1083: Cannot open include file: 'P': No such file or directory
+         Generating Code...
+     1>Done Building Project "c:\Users\administrator.sultan-pc\documents\visual studio 2012\Projects\GSound\GSound\GSound.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.56
