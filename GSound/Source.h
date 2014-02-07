@@ -7,8 +7,6 @@ class Source
 public:
 	Source(void);
 	~Source(void);
-	Position position;
-	std::list <Ray> sound []; 
-	void PropagateSoundFile(SoundFile);
+	Position position;	
 };
 

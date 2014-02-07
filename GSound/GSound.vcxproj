@@ -14,7 +14,8 @@
     <ClInclude Include="Listner.h" />
     <ClInclude Include="Position.h" />
     <ClInclude Include="Ray.h" />
-    <ClInclude Include="Room.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="Sel_Intersect.h" />
     <ClInclude Include="SoundFile.h" />
     <ClInclude Include="Source.h" />
     <ClInclude Include="Wall.h" />
@@ -24,7 +25,8 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Position.cpp" />
     <ClCompile Include="Ray.cpp" />
-    <ClCompile Include="Room.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="Sel_Intersect.cpp" />
     <ClCompile Include="SoundFile.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Wall.cpp" />
